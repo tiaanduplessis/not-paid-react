@@ -1,7 +1,5 @@
-import ExampleComponent from './'
+import NotPaid from './'
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
-  })
+test('should be defined', () => {
+    expect(NotPaid).toBeDefined()
 })

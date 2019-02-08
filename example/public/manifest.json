@@ -1,0 +1,8 @@
+{
+  "short_name": "not-paid-react",
+  "name": "not-paid-react",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
